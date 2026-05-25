@@ -12,7 +12,7 @@ git clone https://github.com/G100-X1/device_mediatek_sepolicy_vndr.git -b lineag
 git clone https://github.com/G100-X1/hardware_mediatek.git -b lineage-23.1 hardware/mediatek
 git clone https://github.com/G100-X1/android_vendor_mediatek_ims.git -b lineage-23.1 vendor/mediatek/ims
 git clone https://github.com/G100-X1/android_vendor_sony_dolby.git -b sixteen-redesign vendor/sony/dolby
-git clone https://github.com/putraaxzy/packages_apps_GameBar packages/apps/GameBar
+git clone https://github.com/Tanzanite-Prjkt/android_packages_apps_GameBar.git -b lineage-23.2 packages/apps/GameBar
 
 export BUILD_USERNAME=miku
 export BUILD_HOSTNAME=crave
